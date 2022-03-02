@@ -214,7 +214,7 @@ jobs:
           use_prebuilt_image: yes
           committer_message: "chore(metrics): update ${filename} - [Skip GitHub Action]"
           plugin_stackoverflow: yes
-          plugin_stackoverflow_user: 184605 # Stackoverflow user id (required)
+          plugin_stackoverflow_user: 5698853 # Stackoverflow user id (required)
           plugin_stackoverflow_sections: "" # Display top answers and recent questions
           plugin_stackoverflow_limit: 2 # Display 2 entries per section
           plugin_stackoverflow_lines: 4 # Display 4 lines per entry
