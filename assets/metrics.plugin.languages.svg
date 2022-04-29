@@ -22,14 +22,14 @@
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="132.6654392463631" height="8" fill="#2b7489"/>
-                    <rect mask="url(#languages-bar)" x="132.6654392463631" y="0" width="129.70322721823058" height="8" fill="#b07219"/>
-                    <rect mask="url(#languages-bar)" x="262.36866646459373" y="0" width="89.05854906385439" height="8" fill="#A97BFF"/>
-                    <rect mask="url(#languages-bar)" x="351.4272155284481" y="0" width="44.52838887192776" height="8" fill="#555555"/>
-                    <rect mask="url(#languages-bar)" x="395.9556044003758" y="0" width="18.675515388226305" height="8" fill="#f1e05a"/>
-                    <rect mask="url(#languages-bar)" x="414.6311197886021" y="0" width="16.483293109608358" height="8" fill="#00B4AB"/>
-                    <rect mask="url(#languages-bar)" x="431.1144128982105" y="0" width="16.44330097963357" height="8" fill="#e34c26"/>
-                    <rect mask="url(#languages-bar)" x="447.5577138778441" y="0" width="12.44228612215595" height="8" fill="#f34b7d"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="132.62598749267755" height="8" fill="#2b7489"/>
+                    <rect mask="url(#languages-bar)" x="132.62598749267755" y="0" width="129.6646563605792" height="8" fill="#b07219"/>
+                    <rect mask="url(#languages-bar)" x="262.29064385325677" y="0" width="89.16885880870747" height="8" fill="#A97BFF"/>
+                    <rect mask="url(#languages-bar)" x="351.4595026619642" y="0" width="44.51514711853841" height="8" fill="#555555"/>
+                    <rect mask="url(#languages-bar)" x="395.97464978050266" y="0" width="18.66996170493673" height="8" fill="#f1e05a"/>
+                    <rect mask="url(#languages-bar)" x="414.6446114854394" y="0" width="16.478391344511277" height="8" fill="#00B4AB"/>
+                    <rect mask="url(#languages-bar)" x="431.1230028299507" y="0" width="16.43841110730728" height="8" fill="#e34c26"/>
+                    <rect mask="url(#languages-bar)" x="447.56141393725795" y="0" width="12.438586062742099" height="8" fill="#f34b7d"/>
                 </svg>
                 <div class="row fill-width">
                     <section>
@@ -41,7 +41,7 @@
                                 TypeScript
                             </div>
                             <small>
-                                <div>28.84%</div>
+                                <div>28.83%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -52,7 +52,7 @@
                                 Kotlin
                             </div>
                             <small>
-                                <div>19.36%</div>
+                                <div>19.38%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -87,7 +87,7 @@
                                 Java
                             </div>
                             <small>
-                                <div>28.2%</div>
+                                <div>28.19%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -128,7 +128,7 @@
             </section>
             <section class="column">
                 <h3 class="field">Recently used languages</h3>
-                <small>estimation from 0 edited files from 0 commits over last 25 days</small>
+                <small>estimation from 0 edited files from 0 commits over last 27 days</small>
                 <svg class="bar" xmlns="http://www.w3.org/2000/svg" width="460" height="8">
                     <mask id="languages-bar">
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
