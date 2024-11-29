@@ -22,8 +22,8 @@
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="376.76810496764404" height="8" fill="#3178c6"/>
-                    <rect mask="url(#languages-bar)" x="376.76810496764404" y="0" width="72.87182929531077" height="8" fill="#3178c6"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="369.606867338807" height="8" fill="#3178c6"/>
+                    <rect mask="url(#languages-bar)" x="369.606867338807" y="0" width="80.03306692414778" height="8" fill="#3178c6"/>
                     <rect mask="url(#languages-bar)" x="449.6399342629548" y="0" width="10.360065737045206" height="8" fill="#f1e05a"/>
                 </svg>
                 <div class="row fill-width">
@@ -36,7 +36,7 @@
                                 TypeScript
                             </div>
                             <small>
-                                <div>81.91%</div>
+                                <div>80.35%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -60,7 +60,7 @@
                                 TSX
                             </div>
                             <small>
-                                <div>15.84%</div>
+                                <div>17.4%</div>
                             </small>
                         </div>
                     </section>
