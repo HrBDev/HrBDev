@@ -16,15 +16,15 @@
             </section>
             <section class="column">
                 <h3 class="field">Most used languages</h3>
-                <small>estimation from 503 edited files from 1885 commits</small>
+                <small>estimation from 504 edited files from 1953 commits</small>
                 <svg class="bar" xmlns="http://www.w3.org/2000/svg" width="460" height="8">
                     <mask id="languages-bar">
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="377.1071775250085" height="8" fill="#3178c6"/>
-                    <rect mask="url(#languages-bar)" x="377.1071775250085" y="0" width="75.75211166899349" height="8" fill="#3178c6"/>
-                    <rect mask="url(#languages-bar)" x="452.859289194002" y="0" width="7.140710805997977" height="8" fill="#f1e05a"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="380.3018916158188" height="8" fill="#3178c6"/>
+                    <rect mask="url(#languages-bar)" x="380.3018916158188" y="0" width="72.8612327620104" height="8" fill="#3178c6"/>
+                    <rect mask="url(#languages-bar)" x="453.1631243778292" y="0" width="6.836875622170782" height="8" fill="#f1e05a"/>
                 </svg>
                 <div class="row fill-width">
                     <section>
@@ -36,7 +36,7 @@
                                 TypeScript
                             </div>
                             <small>
-                                <div>81.98%</div>
+                                <div>82.67%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -47,7 +47,7 @@
                                 JavaScript
                             </div>
                             <small>
-                                <div>1.55%</div>
+                                <div>1.49%</div>
                             </small>
                         </div>
                     </section>
@@ -60,7 +60,7 @@
                                 TSX
                             </div>
                             <small>
-                                <div>16.47%</div>
+                                <div>15.84%</div>
                             </small>
                         </div>
                     </section>
@@ -68,7 +68,7 @@
             </section>
             <section class="column">
                 <h3 class="field">Recently used languages</h3>
-                <small>estimation from 0 edited files from 0 commits over last 25 days</small>
+                <small>estimation from 0 edited files from 0 commits over last 29 days</small>
                 <svg class="bar" xmlns="http://www.w3.org/2000/svg" width="460" height="8">
                     <mask id="languages-bar">
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
