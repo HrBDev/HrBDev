@@ -16,15 +16,15 @@
             </section>
             <section class="column">
                 <h3 class="field">Most used languages</h3>
-                <small>estimation from 513 edited files from 2148 commits</small>
+                <small>estimation from 513 edited files from 2152 commits</small>
                 <svg class="bar" xmlns="http://www.w3.org/2000/svg" width="460" height="8">
                     <mask id="languages-bar">
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="381.2462853411946" height="8" fill="#3178c6"/>
-                    <rect mask="url(#languages-bar)" x="381.2462853411946" y="0" width="72.50986288902519" height="8" fill="#3178c6"/>
-                    <rect mask="url(#languages-bar)" x="453.7561482302198" y="0" width="6.243851769780187" height="8" fill="#f1e05a"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="381.2810946626494" height="8" fill="#3178c6"/>
+                    <rect mask="url(#languages-bar)" x="381.2810946626494" y="0" width="72.47781336428997" height="8" fill="#3178c6"/>
+                    <rect mask="url(#languages-bar)" x="453.7589080269394" y="0" width="6.241091973060604" height="8" fill="#f1e05a"/>
                 </svg>
                 <div class="row fill-width">
                     <section>
@@ -36,7 +36,7 @@
                                 TypeScript
                             </div>
                             <small>
-                                <div>82.88%</div>
+                                <div>82.89%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -68,7 +68,7 @@
             </section>
             <section class="column">
                 <h3 class="field">Recently used languages</h3>
-                <small>estimation from 0 edited files from 0 commits over last 21 days</small>
+                <small>estimation from 0 edited files from 0 commits over last 28 days</small>
                 <svg class="bar" xmlns="http://www.w3.org/2000/svg" width="460" height="8">
                     <mask id="languages-bar">
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
